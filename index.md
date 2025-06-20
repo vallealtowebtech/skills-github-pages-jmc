@@ -1,3 +1,3 @@
 ---
-title: Hola a todos!
+Título: Hola a todos!
 ---
